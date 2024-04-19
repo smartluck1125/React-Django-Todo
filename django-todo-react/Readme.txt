@@ -1,4 +1,5 @@
 For the environment, you follow under the command instructions
+you have install django
 
 in the first directory
 	-pip install pipenv
